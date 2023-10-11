@@ -1,21 +1,11 @@
-## About Us
+## Our Story
 
+**Welcome to Cosmic Nodes' Official GitHub Page.**
 
+Cosmic Nodes, a game hosting company based in Nepal, is proudly operated by Cosmic Games Interactive. Established in 2023 as a collaborative effort among individuals, it has since grown to become one of Nepal's premier game hosting companies. Over time, it has expanded to serve gamers in the entire South Asian region.
 
-**Welcome to Cosmic Nodes Official GitHub Page.**
+Cosmic Nodes takes pride in prioritizing quality over quantity. 
 
-Cosmic Nodes is a game Hosting company based on Nepal runned by Cosmic Games Interactive. It is officially Established on 2023 as a group project of some randome people which is now one of the biggest gamd hosting company on nepal.
-Its has been expanded significantly adding more locations and providing services to Other Region people eg : India , Bangaladesh etc...
+"We Stayed, We Fixed, Cosmic Nodes - Fulfilling Dreams."
 
-Cosmic Nodes is ond of the best that focus on quality not the quantity.
-
-
-
- We Stayed , We fixed , cosmic Nodes - Some Dreams Meant to be completed...
-
-
-
- *copyright all right reserved to cosmic games interactive 2023.*
-
-
-
+*Copyright, all rights reserved by Cosmic Games Interactive, 2023.*
